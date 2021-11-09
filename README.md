@@ -26,7 +26,6 @@ I appreciate it
 <p align="center">
  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=Replit&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/Google Drive-4285F4?style=for-the-badge&logo=Google Drive&logoColor=white">
 </p>
@@ -34,9 +33,7 @@ I appreciate it
 
 <h4 = align="center">How to contact ME!</h4>
 <p align="center">
- <a href="https://wnstjrdl.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://wnstjrdl.tistory.com/"/></a>&nbsp
- <a href="https://www.notion.so/JunseokCheon-67e5b21b347e4e58873472cfb10153e1"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Blogger&logoColor=white&link=https://www.notion.so/JunseokCheon-67e5b21b347e4e58873472cfb10153e1"/></a>&nbsp
- <a href="https://github.com/JunSeokCheon"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Blogger&logoColor=white&link=https://github.com/JunSeokCheon"/></a>&nbsp
+ <a href="https://github.com/ezez-refer"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Blogger&logoColor=white&link=https://github.com/ezez-refer"/></a>&nbsp
 </p>
 
 
