@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junseok%20Cheon&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JunNyeong%20Jeong&fontSize=70)
 
 Hello world!   
 I'm JunNyeong Jeong who major in Computer Science and is interested in Machine Learning from South Korea.   
