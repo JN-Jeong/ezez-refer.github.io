@@ -38,6 +38,7 @@ I appreciate it
 <h4 = align="center">How to contact ME!</h4>
 <p align="center">
  <a href="https://github.com/ezez-refer"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Blogger&logoColor=white&link=https://github.com/ezez-refer"/></a>&nbsp
+  <a href="href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jjn00712@gmail.com""><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Blogger&logoColor=white&link=https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jjn00712@gmail.com"/></a>&nbsp
 </p>
 
 
